@@ -1,0 +1,2 @@
+# HellowWorld
+创建第一个cocos2dx项目hellowworld
